@@ -1,2 +1,5 @@
-# Multiple-Screen-Support
-Make your app compatible for different android screens
+# Project 2 ENSAS
+Made by:
+Aiman Malkoun
+Hamza Benlaskih
+
